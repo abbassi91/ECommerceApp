@@ -1,0 +1,6 @@
+obj
+bin
+appsettings.json
+*.sql
+*.db
+*.ds_store
